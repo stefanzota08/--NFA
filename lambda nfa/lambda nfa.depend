@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584013495 source:d:\probleme informatica\lambda nfa\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+
