@@ -63,7 +63,7 @@ public:
 
                 if(G[i].a == sc && G[i].c == cuvant[pozitie_cuvant])
                     verificare(cuvant, G[i].b, pozitie_cuvant+1);
-                else if(G[i].a == sc && G[i].c =='.')
+                else if(G[i].a == sc && G[i].c =='^')
                     verificare(cuvant, G[i].b, pozitie_cuvant);
             }
         }
