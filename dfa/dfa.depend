@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584002050 source:d:\probleme informatica\dfa\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<stdio.h>
+	<fstream>
+	<windows.h>
+
